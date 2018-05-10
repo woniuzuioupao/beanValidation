@@ -1,4 +1,4 @@
-package com.ibm.bean.test;
+package com.hy;
 
 
 import org.hibernate.validator.constraints.NotEmpty;
